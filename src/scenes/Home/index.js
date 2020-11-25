@@ -43,7 +43,7 @@ function Home() {
                 <Route path={path} exact>
                     <Redirect
                         to={{
-                            pathname: `${path}/intro`.replace(/([^:])(\/\/+)/g, "$1/"),
+                            pathname: `intro`,
                         }}
                     />
                 </Route>
