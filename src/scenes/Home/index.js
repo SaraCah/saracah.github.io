@@ -43,7 +43,7 @@ function Home() {
                 <Route path={path} exact>
                     <Redirect
                         to={{
-                            pathname: `intro`,
+                            pathname: 'intro',
                         }}
                     />
                 </Route>
