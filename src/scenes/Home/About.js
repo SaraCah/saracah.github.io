@@ -26,7 +26,7 @@ const About = () => {
                                         <span>Hello, I am Sara Cave.</span>
                                     </h3>
                                     <div className="divider divider-1"></div>
-                                    <p>I am passionate Developer always excited for the challenges that come with development! Here are some things I specialise in. </p>
+                                    <p>I am passionate Developer who's always excited to learn new things! Here are some things I specialise in. </p>
                                 </header>
                                 <Row className="pt-30">
                                     <Col xs={12} sm={12} md={6}>

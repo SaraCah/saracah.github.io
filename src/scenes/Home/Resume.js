@@ -27,7 +27,7 @@ const experience = [
     },
     {
         title: "Estimator",
-        subtitle: "ADCO Constructions| Brisbane",
+        subtitle: "ADCO Constructions | Brisbane",
         description: "Preparing competitive tender bids which accurately reflect the requirements of the tender documents ",
         date: "(2016-2018)",
         icon: "ti-paint-bucket",
